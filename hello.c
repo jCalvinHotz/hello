@@ -4,13 +4,14 @@
  *
  * A simple Hello world program
  */
- 
+
 #include <stdlib.h>
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    
+
     printf("Calvin Hotz\n");
-    
+    printf("Vince Murray");
+
     return 0;
 }
